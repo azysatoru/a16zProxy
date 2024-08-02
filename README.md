@@ -1,4 +1,4 @@
-# Swisstronik Tesnet 2.0 // Task 06.
+# Swisstronik Testnet 2.0 // Task 06.
 
 Link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
